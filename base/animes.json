@@ -1,5 +1,5 @@
 {
-  "total_animes": 10,
+  "total_animes": 11,
   "animes": [
     {
       "id": "ashita-no-joe-2",
@@ -128,6 +128,115 @@
           "number": 12,
           "name": "Episódio 12",
           "url": "https://files.catbox.moe/pmoywp.mp4",
+          "duration": null
+        }
+      ]
+    },
+        {
+      "id": "another",
+      "title": "Another",
+      "alternative_titles": [
+        "Another"
+      ],
+      "year": 2012,
+      "season": "Inverno de 2012",
+      "type": "TV",
+      "episodes_count": 13,
+      "audio": "Dublado / Legendado",
+      "genres": [
+        "Drama",
+        "Mistério",
+        "Sobrenatural",
+        "Suspense",
+        "Terror"
+      ],
+      "themes": [
+        "Escola",
+        "Maldição",
+        "Mortes Misteriosas"
+      ],
+      "studio": "P.A. Works",
+      "description": "Em 1998, uma aluna popular e exemplar da turma 3-3 da Escola Secundária Yomiyama morreu misteriosamente, e todos passaram a agir como se ela ainda estivesse viva. Vinte e seis anos depois, Koichi Sakakibara é transferido para a mesma sala e conhece a enigmática Mei Misaki, descobrindo que uma maldição mortal cerca a turma.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7SEuXumtwC2gwjqdjr8ncHY6wx2drP8jDMCcwKvrCgQ&s=10",
+      "episodes": [
+        {
+          "number": 1,
+          "name": "Episódio 1",
+          "url": "https://files.catbox.moe/asmdkg.mp4",
+          "dubbed_url": "https://files.catbox.moe/pg5m8r.mp4",
+          "duration": null
+        },
+        {
+          "number": 2,
+          "name": "Episódio 2",
+          "url": "https://files.catbox.moe/m4lavn.mp4",
+          "dubbed_url": "https://files.catbox.moe/j5lalh.mp4",
+          "duration": null
+        },
+        {
+          "number": 3,
+          "name": "Episódio 3",
+          "url": "https://files.catbox.moe/w6vavu.mp4",
+          "duration": null
+        },
+        {
+          "number": 4,
+          "name": "Episódio 4",
+          "url": "https://files.catbox.moe/6gnvxm.mp4",
+          "duration": null
+        },
+        {
+          "number": 5,
+          "name": "Episódio 5",
+          "url": "https://files.catbox.moe/32tbqn.mp4",
+          "duration": null
+        },
+        {
+          "number": 6,
+          "name": "Episódio 6",
+          "url": "https://files.catbox.moe/gp9lmb.mp4",
+          "duration": null
+        },
+        {
+          "number": 7,
+          "name": "Episódio 7",
+          "url": "https://files.catbox.moe/s4ygjs.mp4",
+          "duration": null
+        },
+        {
+          "number": 8,
+          "name": "Episódio 8",
+          "url": "https://files.catbox.moe/emrjzg.mp4",
+          "duration": null
+        },
+        {
+          "number": 9,
+          "name": "Episódio 9",
+          "url": "https://files.catbox.moe/wanspn.mp4",
+          "duration": null
+        },
+        {
+          "number": 10,
+          "name": "Episódio 10",
+          "url": "https://files.catbox.moe/7kgrl3.mp4",
+          "duration": null
+        },
+        {
+          "number": 11,
+          "name": "Episódio 11",
+          "url": "https://files.catbox.moe/eg5ilr.mp4",
+          "duration": null
+        },
+        {
+          "number": 12,
+          "name": "Episódio 12",
+          "url": "https://files.catbox.moe/bwu9zi.mp4",
+          "duration": null
+        },
+        {
+          "number": 13,
+          "name": "Episódio 13",
+          "url": "https://files.catbox.moe/a5nngc.mp4",
           "duration": null
         }
       ]
@@ -891,6 +1000,7 @@
         }
       ]
     },
+    
     {
       "id": "dark-elf",
       "title": "Dark Elf ga Isekai kara Oikaketekita",
