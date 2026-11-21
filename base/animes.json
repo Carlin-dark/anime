@@ -1,5 +1,5 @@
 {
-  "total_animes": 11,
+  "total_animes": 10,
   "animes": [
     {
       "id": "ashita-no-joe-2",
@@ -688,8 +688,8 @@
       ]
     },
     {
-      "id": "rezero-legendado",
-      "title": "Re:Zero (Legendado)",
+      "id": "rezero",
+      "title": "Re:Zero",
       "alternative_titles": [
         "Re:Zero kara Hajimeru Isekai Seikatsu",
         "Re:ZERO -Starting Life in Another World-"
@@ -698,7 +698,7 @@
       "season": "Primavera de 2016",
       "type": "TV",
       "episodes_count": 25,
-      "audio": "Legendado",
+      "audio": "Dublado / Legendado",
       "genres": [
         "Drama",
         "Fantasia",
@@ -718,329 +718,175 @@
           "number": 1,
           "name": "Ep 1: Começo (50m)",
           "url": "https://ucarecdn.com/c42411a7-1929-4cde-9dcb-1bf538c6c0d5/",
+          "dubbed_url": "https://ucarecdn.com/eea57af5-1e2b-43a5-967a-6b6e5cbaca8e/",
           "duration": "50min"
         },
         {
           "number": 2,
           "name": "Ep 2: Reencontro",
           "url": "https://files.catbox.moe/euw1z1.mp4",
+          "dubbed_url": "https://files.catbox.moe/4w5zl1.mp4",
           "duration": "24min"
         },
         {
           "number": 3,
           "name": "Ep 3: Vida do Zero",
           "url": "https://files.catbox.moe/8jqf29.mp4",
+          "dubbed_url": "https://files.catbox.moe/n0wrcs.mp4",
           "duration": null
         },
         {
           "number": 4,
           "name": "Ep 4: Mansão Roswaal",
           "url": "https://files.catbox.moe/o4e313.mp4",
+          "dubbed_url": "https://files.catbox.moe/tzzx30.mp4",
           "duration": null
         },
         {
           "number": 5,
           "name": "Ep 5: Manhã Distante",
           "url": "https://files.catbox.moe/uzp5ss.mp4",
+          "dubbed_url": "https://ucarecdn.com/e4c52252-2b5d-4bda-9655-1375fa35bd5d/",
           "duration": null
         },
         {
           "number": 6,
           "name": "Ep 6: Som de Correntes",
           "url": "https://files.catbox.moe/w3goq2.mp4",
+          "dubbed_url": "https://files.catbox.moe/3wurzl.mp4",
           "duration": null
         },
         {
           "number": 7,
           "name": "Ep 7: Reinício",
           "url": "https://files.catbox.moe/em3h10.mp4",
+          "dubbed_url": "https://ucarecdn.com/4371fdeb-949c-4589-95a0-8163f26b6708/",
           "duration": null
         },
         {
           "number": 8,
           "name": "Ep 8: Chorei",
           "url": "https://files.catbox.moe/bq8p9d.mp4",
+          "dubbed_url": "https://ucarecdn.com/96e25128-da82-4b22-876a-fd71364bfc03/",
           "duration": null
         },
         {
           "number": 9,
           "name": "Ep 9: Coragem",
           "url": "https://files.catbox.moe/ezmrxf.mp4",
+          "dubbed_url": "https://files.catbox.moe/q0i5hu.mp4",
           "duration": null
         },
         {
           "number": 10,
           "name": "Ep 10: Fanático",
           "url": "https://files.catbox.moe/kbh9vb.mp4",
+          "dubbed_url": "https://files.catbox.moe/qbgjdq.mp4",
           "duration": null
         },
         {
           "number": 11,
           "name": "Ep 11: Rem",
           "url": "https://files.catbox.moe/n88ibf.mp4",
+          "dubbed_url": "https://files.catbox.moe/yc70ha.mp4",
           "duration": null
         },
         {
           "number": 12,
           "name": "Ep 12: Capital",
           "url": "https://files.catbox.moe/84mslc.mp4",
+          "dubbed_url": "https://files.catbox.moe/nfncgw.mp4",
           "duration": null
         },
         {
           "number": 13,
           "name": "Ep 13: Cavaleiro",
           "url": "https://files.catbox.moe/z5cfgn.mp4",
+          "dubbed_url": "https://files.catbox.moe/75f6og.mp4",
           "duration": null
         },
         {
           "number": 14,
           "name": "Ep 14: Desespero",
           "url": "https://files.catbox.moe/0hcmhs.mp4",
+          "dubbed_url": "https://files.catbox.moe/bwshgr.mp4",
           "duration": null
         },
         {
           "number": 15,
           "name": "Ep 15: Loucura",
           "url": "https://files.catbox.moe/5vof0g.mp4",
+          "dubbed_url": "https://files.catbox.moe/sbq4ky.mp4",
           "duration": null
         },
         {
           "number": 16,
           "name": "Ep 16: Ganância",
           "url": "https://files.catbox.moe/dhthwq.mp4",
+          "dubbed_url": "https://files.catbox.moe/heq0p5.mp4",
           "duration": null
         },
         {
           "number": 17,
           "name": "Ep 17: Desonra",
           "url": "https://files.catbox.moe/m4u8ui.mp4",
+          "dubbed_url": "https://files.catbox.moe/eol71t.mp4",
           "duration": null
         },
         {
           "number": 18,
           "name": "Ep 18: Do Zero",
           "url": "https://files.catbox.moe/938ogx.mp4",
+          "dubbed_url": "https://files.catbox.moe/3mrb3g.mp4",
           "duration": null
         },
         {
           "number": 19,
           "name": "Ep 19: Baleia Branca",
           "url": "https://files.catbox.moe/2un1vd.mp4",
+          "dubbed_url": "https://files.catbox.moe/1ydi0h.mp4",
           "duration": null
         },
         {
           "number": 20,
           "name": "Ep 20: Wilhelm",
           "url": "https://files.catbox.moe/n1bvuv.mp4",
+          "dubbed_url": "https://files.catbox.moe/yasmzw.mp4",
           "duration": null
         },
         {
           "number": 21,
           "name": "Ep 21: Aposta",
           "url": "https://files.catbox.moe/elx1mb.mp4",
+          "dubbed_url": "https://files.catbox.moe/tii1w2.mp4",
           "duration": null
         },
         {
           "number": 22,
           "name": "Ep 22: Preguiça",
           "url": "https://files.catbox.moe/qdeyz9.mp4",
+          "dubbed_url": "https://files.catbox.moe/5ltsp1.mp4",
           "duration": null
         },
         {
           "number": 23,
           "name": "Ep 23: Mutável",
           "url": "https://files.catbox.moe/saxwx6.mp4",
+          "dubbed_url": "https://files.catbox.moe/j39s7p.mp4",
           "duration": null
         },
         {
           "number": 24,
           "name": "Ep 24: Melhores",
           "url": "https://files.catbox.moe/c3bxx1.mp4",
+          "dubbed_url": "https://files.catbox.moe/puari4.mp4",
           "duration": null
         },
         {
           "number": 25,
           "name": "Ep 25: É Tudo",
           "url": "https://files.catbox.moe/bnbv5i.mp4",
-          "duration": null
-        }
-      ]
-    },
-    {
-      "id": "rezero-dublado",
-      "title": "Re:Zero (Dublado)",
-      "alternative_titles": [
-        "Re:Zero kara Hajimeru Isekai Seikatsu",
-        "Re:ZERO -Starting Life in Another World-"
-      ],
-      "year": 2016,
-      "season": "Primavera de 2016",
-      "type": "TV",
-      "episodes_count": 25,
-      "audio": "Dublado",
-      "genres": [
-        "Drama",
-        "Fantasia",
-        "Suspense",
-        "Psicológico"
-      ],
-      "themes": [
-        "Isekai",
-        "Loop Temporal",
-        "Reencarnação"
-      ],
-      "studio": "White Fox",
-      "description": "Versão dublada da primeira temporada de Re:Zero, acompanhando Subaru Natsuki em um mundo de fantasia brutal onde ele precisa usar sua habilidade de retornar no tempo após a morte para alterar destinos trágicos.",
-      "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/sharedimages/2024/09/re-zero-starting-life-in-another-world-poster.jpg?q=49&fit=contain&w=480&dpr=2",
-      "episodes": [
-        {
-          "number": 1,
-          "name": "Episódio 1",
-          "url": "https://ucarecdn.com/eea57af5-1e2b-43a5-967a-6b6e5cbaca8e/",
-          "duration": null
-        },
-        {
-          "number": 2,
-          "name": "Episódio 2",
-          "url": "https://files.catbox.moe/4w5zl1.mp4",
-          "duration": null
-        },
-        {
-          "number": 3,
-          "name": "Episódio 3",
-          "url": "https://files.catbox.moe/n0wrcs.mp4",
-          "duration": null
-        },
-        {
-          "number": 4,
-          "name": "Episódio 4",
-          "url": "https://files.catbox.moe/tzzx30.mp4",
-          "duration": null
-        },
-        {
-          "number": 5,
-          "name": "Episódio 5",
-          "url": "https://ucarecdn.com/e4c52252-2b5d-4bda-9655-1375fa35bd5d/",
-          "duration": null
-        },
-        {
-          "number": 6,
-          "name": "Episódio 6",
-          "url": "https://files.catbox.moe/3wurzl.mp4",
-          "duration": null
-        },
-        {
-          "number": 7,
-          "name": "Episódio 7",
-          "url": "https://ucarecdn.com/4371fdeb-949c-4589-95a0-8163f26b6708/",
-          "duration": null
-        },
-        {
-          "number": 8,
-          "name": "Episódio 8",
-          "url": "https://ucarecdn.com/96e25128-da82-4b22-876a-fd71364bfc03/",
-          "duration": null
-        },
-        {
-          "number": 9,
-          "name": "Episódio 9",
-          "url": "https://files.catbox.moe/q0i5hu.mp4",
-          "duration": null
-        },
-        {
-          "number": 10,
-          "name": "Episódio 10",
-          "url": "https://files.catbox.moe/qbgjdq.mp4",
-          "duration": null
-        },
-        {
-          "number": 11,
-          "name": "Episódio 11",
-          "url": "https://files.catbox.moe/yc70ha.mp4",
-          "duration": null
-        },
-        {
-          "number": 12,
-          "name": "Episódio 12",
-          "url": "https://files.catbox.moe/nfncgw.mp4",
-          "duration": null
-        },
-        {
-          "number": 13,
-          "name": "Episódio 13",
-          "url": "https://files.catbox.moe/75f6og.mp4",
-          "duration": null
-        },
-        {
-          "number": 14,
-          "name": "Episódio 14",
-          "url": "https://files.catbox.moe/bwshgr.mp4",
-          "duration": null
-        },
-        {
-          "number": 15,
-          "name": "Episódio 15",
-          "url": "https://files.catbox.moe/sbq4ky.mp4",
-          "duration": null
-        },
-        {
-          "number": 16,
-          "name": "Episódio 16",
-          "url": "https://files.catbox.moe/heq0p5.mp4",
-          "duration": null
-        },
-        {
-          "number": 17,
-          "name": "Episódio 17",
-          "url": "https://files.catbox.moe/eol71t.mp4",
-          "duration": null
-        },
-        {
-          "number": 18,
-          "name": "Episódio 18",
-          "url": "https://files.catbox.moe/3mrb3g.mp4",
-          "duration": null
-        },
-        {
-          "number": 19,
-          "name": "Episódio 19",
-          "url": "https://files.catbox.moe/1ydi0h.mp4",
-          "duration": null
-        },
-        {
-          "number": 20,
-          "name": "Episódio 20",
-          "url": "https://files.catbox.moe/yasmzw.mp4",
-          "duration": null
-        },
-        {
-          "number": 21,
-          "name": "Episódio 21",
-          "url": "https://files.catbox.moe/tii1w2.mp4",
-          "duration": null
-        },
-        {
-          "number": 22,
-          "name": "Episódio 22",
-          "url": "https://files.catbox.moe/5ltsp1.mp4",
-          "duration": null
-        },
-        {
-          "number": 23,
-          "name": "Episódio 23",
-          "url": "https://files.catbox.moe/j39s7p.mp4",
-          "duration": null
-        },
-        {
-          "number": 24,
-          "name": "Episódio 24",
-          "url": "https://files.catbox.moe/puari4.mp4",
-          "duration": null
-        },
-        {
-          "number": 25,
-          "name": "Episódio 25",
-          "url": "https://ucarecdn.com/ce37f251-5578-4561-a381-6d6da5ed7d7e/",
+          "dubbed_url": "https://ucarecdn.com/ce37f251-5578-4561-a381-6d6da5ed7d7e/",
           "duration": null
         }
       ]
@@ -1140,7 +986,7 @@
           "number": 12,
           "name": "Episódio 12",
           "url": "https://files.catbox.moe/3zq217.mp4",
-          "duration": "24min"
+          "duration": null
         }
       ]
     }
