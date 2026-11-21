@@ -1,339 +1,1148 @@
-animes = [
+{
+  "total_animes": 11,
+  "animes": [
     {
-        "id": "ashita-no-joe-2",
-        "title": "Ashita no Joe 2",
-        "alternative_titles": ["Tomorrow's Joe 2"],
-        "year": 1980,
-        "season": "Outono de 1980",
-        "type": "TV",
-        "episodes_count": 47,
-        "audio": "Legendado",
-        "genres": ["Drama", "Esportes", "Shounen"],
-        "themes": ["Boxe", "Superação"],
-        "studio": "Tokyo Movie Shinsha",
-        "description": "Continuação direta de Ashita no Joe, acompanhando Joe Yabuki tentando superar os traumas e o peso da morte de Toru Rikiishi enquanto busca seu retorno aos ringues e o cinturão mundial.",
-        "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Ashita_no_Joe_poster.jpg",
-        "episodes": [
-            {"number": 1, "name": "Episódio 1", "url": "https://files.catbox.moe/2osvzh.mp4", "duration": None}
-        ]
+      "id": "ashita-no-joe-2",
+      "title": "Ashita no Joe 2",
+      "alternative_titles": [
+        "Tomorrow's Joe 2"
+      ],
+      "year": 1980,
+      "season": "Outono de 1980",
+      "type": "TV",
+      "episodes_count": 47,
+      "audio": "Legendado",
+      "genres": [
+        "Drama",
+        "Esportes",
+        "Shounen"
+      ],
+      "themes": [
+        "Boxe",
+        "Superação"
+      ],
+      "studio": "Tokyo Movie Shinsha",
+      "description": "Continuação direta de Ashita no Joe, acompanhando Joe Yabuki tentando superar os traumas e o peso da morte de Toru Rikiishi enquanto busca seu retorno aos ringues e o cinturão mundial.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/22/Ashita_no_Joe_poster.jpg",
+      "episodes": [
+        {
+          "number": 1,
+          "name": "Episódio 1",
+          "url": "https://files.catbox.moe/2osvzh.mp4",
+          "duration": null
+        }
+      ]
     },
     {
-        "id": "dandadan",
-        "title": "Dandadan",
-        "alternative_titles": ["Dan Da Dan"],
-        "year": 2024,
-        "season": "Outono de 2024",
-        "type": "TV",
-        "episodes_count": 12,
-        "audio": "Dublado / Legendado",
-        "genres": ["Ação", "Comédia", "Sobrenatural"],
-        "themes": ["Alienígenas", "Fantasmas", "Romance"],
-        "studio": "Science SARU",
-        "description": "Momo Ayase acredita em fantasmas mas não em alienígenas, enquanto seu colega Okarun acredita em alienígenas mas não em fantasmas. Para provar quem está certo, ambos visitam locais sobrenaturais e acabam envolvidos em batalhas caóticas contra entidades ocultas e extraterrestres.",
-        "image": "https://a.storyblok.com/f/178900/1064x1596/bccf76f674/dandadan-key-art-tall.png/m/filters:quality(95)format(webp)",
-        "episodes": [
-            {"number": 1, "name": "Ep 1 (Dublado)", "url": "https://files.catbox.moe/f3e2pe.mp4", "duration": None},
-            {"number": 2, "name": "Episódio 2", "url": "https://files.catbox.moe/8fkh7x.mp4", "duration": None},
-            {"number": 3, "name": "Episódio 3", "url": "https://files.catbox.moe/hr29r6.mp4", "duration": None},
-            {"number": 4, "name": "Episódio 4", "url": "https://files.catbox.moe/54wo2n.mp4", "duration": None},
-            {"number": 5, "name": "Episódio 5", "url": "https://files.catbox.moe/whx4w0.mp4", "duration": None},
-            {"number": 6, "name": "Episódio 6", "url": "https://files.catbox.moe/n63htj.mp4", "duration": None},
-            {"number": 7, "name": "Episódio 7", "url": "https://files.catbox.moe/5ittup.mp4", "duration": None},
-            {"number": 8, "name": "Episódio 8", "url": "https://files.catbox.moe/nep3zs.mp4", "duration": None},
-            {"number": 9, "name": "Episódio 9", "url": "https://files.catbox.moe/ewft5w.mp4", "duration": None},
-            {"number": 10, "name": "Episódio 10", "url": "https://files.catbox.moe/gs52qo.mp4", "duration": None},
-            {"number": 11, "name": "Episódio 11", "url": "https://files.catbox.moe/0n7nzl.mp4", "duration": None},
-            {"number": 12, "name": "Episódio 12", "url": "https://files.catbox.moe/pmoywp.mp4", "duration": None}
-        ]
+      "id": "dandadan",
+      "title": "Dandadan",
+      "alternative_titles": [
+        "Dan Da Dan"
+      ],
+      "year": 2024,
+      "season": "Outono de 2024",
+      "type": "TV",
+      "episodes_count": 12,
+      "audio": "Dublado / Legendado",
+      "genres": [
+        "Ação",
+        "Comédia",
+        "Sobrenatural"
+      ],
+      "themes": [
+        "Alienígenas",
+        "Fantasmas",
+        "Romance"
+      ],
+      "studio": "Science SARU",
+      "description": "Momo Ayase acredita em fantasmas mas não em alienígenas, enquanto seu colega Okarun acredita em alienígenas mas não em fantasmas. Para provar quem está certo, ambos visitam locais sobrenaturais e acabam envolvidos em batalhas caóticas contra entidades ocultas e extraterrestres.",
+      "image": "https://a.storyblok.com/f/178900/1064x1596/bccf76f674/dandadan-key-art-tall.png/m/filters:quality(95)format(webp)",
+      "episodes": [
+        {
+          "number": 1,
+          "name": "Ep 1 (Dublado)",
+          "url": "https://files.catbox.moe/f3e2pe.mp4",
+          "duration": null
+        },
+        {
+          "number": 2,
+          "name": "Episódio 2",
+          "url": "https://files.catbox.moe/8fkh7x.mp4",
+          "duration": null
+        },
+        {
+          "number": 3,
+          "name": "Episódio 3",
+          "url": "https://files.catbox.moe/hr29r6.mp4",
+          "duration": null
+        },
+        {
+          "number": 4,
+          "name": "Episódio 4",
+          "url": "https://files.catbox.moe/54wo2n.mp4",
+          "duration": null
+        },
+        {
+          "number": 5,
+          "name": "Episódio 5",
+          "url": "https://files.catbox.moe/whx4w0.mp4",
+          "duration": null
+        },
+        {
+          "number": 6,
+          "name": "Episódio 6",
+          "url": "https://files.catbox.moe/n63htj.mp4",
+          "duration": null
+        },
+        {
+          "number": 7,
+          "name": "Episódio 7",
+          "url": "https://files.catbox.moe/5ittup.mp4",
+          "duration": null
+        },
+        {
+          "number": 8,
+          "name": "Episódio 8",
+          "url": "https://files.catbox.moe/nep3zs.mp4",
+          "duration": null
+        },
+        {
+          "number": 9,
+          "name": "Episódio 9",
+          "url": "https://files.catbox.moe/ewft5w.mp4",
+          "duration": null
+        },
+        {
+          "number": 10,
+          "name": "Episódio 10",
+          "url": "https://files.catbox.moe/gs52qo.mp4",
+          "duration": null
+        },
+        {
+          "number": 11,
+          "name": "Episódio 11",
+          "url": "https://files.catbox.moe/0n7nzl.mp4",
+          "duration": null
+        },
+        {
+          "number": 12,
+          "name": "Episódio 12",
+          "url": "https://files.catbox.moe/pmoywp.mp4",
+          "duration": null
+        }
+      ]
     },
     {
-        "id": "kotaro",
-        "title": "Kotaro Vai Morar Sozinho",
-        "alternative_titles": ["Kotaro Lives Alone", "Kotarou wa Hitorigurashi"],
-        "year": 2022,
-        "season": "Primavera de 2022",
-        "type": "ONA / TV",
-        "episodes_count": 10,
-        "audio": "Dublado / Legendado",
-        "genres": ["Comédia", "Drama", "Slice of Life"],
-        "themes": ["Infância", "Vizinhança", "Superação"],
-        "studio": "LIDENFILMS",
-        "description": "Um menino de quatro anos chamado Kotaro Sato passa a morar sozinho em um apartamento simples e lida com as tarefas do dia a dia com maturidade incomum, conquistando o coração e o cuidado dos vizinhos enquanto esconde suas próprias feridas emocionais.",
-        "image": "https://br.web.img2.acsta.net/pictures/21/11/09/08/17/4053025.jpg",
-        "episodes": [
-            {"number": 1, "name": "Ep 1 (Dublado)", "url": "https://files.catbox.moe/9ntrfp.mp4", "duration": None},
-            {"number": 2, "name": "Episódio 2", "url": "https://files.catbox.moe/stivpp.mp4", "duration": None},
-            {"number": 3, "name": "Episódio 3", "url": "https://files.catbox.moe/g2fyv0.mp4", "duration": None},
-            {"number": 4, "name": "Episódio 4", "url": "https://files.catbox.moe/9g2tdm.mp4", "duration": None},
-            {"number": 5, "name": "Episódio 5", "url": "https://files.catbox.moe/1lokqj.mp4", "duration": None},
-            {"number": 6, "name": "Episódio 6", "url": "https://files.catbox.moe/yc01a2.mp4", "duration": None},
-            {"number": 7, "name": "Episódio 7", "url": "https://files.catbox.moe/vp2w3s.mp4", "duration": None},
-            {"number": 8, "name": "Episódio 8", "url": "https://files.catbox.moe/gnb6ip.mp4", "duration": None},
-            {"number": 9, "name": "Episódio 9", "url": "https://files.catbox.moe/7nckkn.mp4", "duration": None},
-            {"number": 10, "name": "Episódio 10", "url": "https://files.catbox.moe/243gbf.mp4", "duration": None}
-        ]
+      "id": "kotaro",
+      "title": "Kotaro Vai Morar Sozinho",
+      "alternative_titles": [
+        "Kotaro Lives Alone",
+        "Kotarou wa Hitorigurashi"
+      ],
+      "year": 2022,
+      "season": "Primavera de 2022",
+      "type": "ONA / TV",
+      "episodes_count": 10,
+      "audio": "Dublado / Legendado",
+      "genres": [
+        "Comédia",
+        "Drama",
+        "Slice of Life"
+      ],
+      "themes": [
+        "Infância",
+        "Vizinhança",
+        "Superação"
+      ],
+      "studio": "LIDENFILMS",
+      "description": "Um menino de quatro anos chamado Kotaro Sato passa a morar sozinho em um apartamento simples e lida com as tarefas do dia a dia com maturidade incomum, conquistando o coração e o cuidado dos vizinhos enquanto esconde suas próprias feridas emocionais.",
+      "image": "https://br.web.img2.acsta.net/pictures/21/11/09/08/17/4053025.jpg",
+      "episodes": [
+        {
+          "number": 1,
+          "name": "Ep 1 (Dublado)",
+          "url": "https://files.catbox.moe/9ntrfp.mp4",
+          "duration": null
+        },
+        {
+          "number": 2,
+          "name": "Episódio 2",
+          "url": "https://files.catbox.moe/stivpp.mp4",
+          "duration": null
+        },
+        {
+          "number": 3,
+          "name": "Episódio 3",
+          "url": "https://files.catbox.moe/g2fyv0.mp4",
+          "duration": null
+        },
+        {
+          "number": 4,
+          "name": "Episódio 4",
+          "url": "https://files.catbox.moe/9g2tdm.mp4",
+          "duration": null
+        },
+        {
+          "number": 5,
+          "name": "Episódio 5",
+          "url": "https://files.catbox.moe/1lokqj.mp4",
+          "duration": null
+        },
+        {
+          "number": 6,
+          "name": "Episódio 6",
+          "url": "https://files.catbox.moe/yc01a2.mp4",
+          "duration": null
+        },
+        {
+          "number": 7,
+          "name": "Episódio 7",
+          "url": "https://files.catbox.moe/vp2w3s.mp4",
+          "duration": null
+        },
+        {
+          "number": 8,
+          "name": "Episódio 8",
+          "url": "https://files.catbox.moe/gnb6ip.mp4",
+          "duration": null
+        },
+        {
+          "number": 9,
+          "name": "Episódio 9",
+          "url": "https://files.catbox.moe/7nckkn.mp4",
+          "duration": null
+        },
+        {
+          "number": 10,
+          "name": "Episódio 10",
+          "url": "https://files.catbox.moe/243gbf.mp4",
+          "duration": null
+        }
+      ]
     },
     {
-        "id": "tonikaku-s1",
-        "title": "Tonikaku Kawaii (S1)",
-        "alternative_titles": ["TONIKAWA: Over the Moon for You", "Fly Me to the Moon"],
-        "year": 2020,
-        "season": "Outono de 2020",
-        "type": "TV",
-        "episodes_count": 12,
-        "audio": "Dublado / Legendado",
-        "genres": ["Comédia", "Romance", "Slice of Life"],
-        "themes": ["Casamento", "Vida a Dois"],
-        "studio": "Seven Arcs",
-        "description": "Nasa Yuzaki é salvo de um acidente por uma garota misteriosa chamada Tsukasa. Anos depois, ela reaparece à sua porta com um pedido de casamento imediato, dando início a uma comédia romântica leve sobre recém-casados aprendendo a viver juntos.",
-        "image": "https://animefire.io/img/animes/tonikaku-kawaii-large.webp",
-        "episodes": [
-            {"number": 1, "name": "Ep 1 (Dublado)", "url": "https://files.catbox.moe/tp1akk.mp4", "duration": None},
-            {"number": 2, "name": "Episódio 2", "url": "https://files.catbox.moe/jss8l5.mp4", "duration": None},
-            {"number": 3, "name": "Episódio 3", "url": "https://files.catbox.moe/p5k23k.mp4", "duration": None},
-            {"number": 4, "name": "Episódio 4", "url": "https://files.catbox.moe/g2yuyj.mp4", "duration": None},
-            {"number": 5, "name": "Episódio 5", "url": "https://files.catbox.moe/xjfhck.mp4", "duration": None},
-            {"number": 6, "name": "Episódio 6", "url": "https://files.catbox.moe/00s1zt.mp4", "duration": None},
-            {"number": 7, "name": "Episódio 7", "url": "https://files.catbox.moe/g38l1p.mp4", "duration": None},
-            {"number": 8, "name": "Episódio 8", "url": "https://files.catbox.moe/4nnhuc.mp4", "duration": None},
-            {"number": 9, "name": "Episódio 9", "url": "https://files.catbox.moe/wng95c.mp4", "duration": None},
-            {"number": 10, "name": "Episódio 10", "url": "https://files.catbox.moe/7lg9c9.mp4", "duration": None},
-            {"number": 11, "name": "Episódio 11", "url": "https://files.catbox.moe/3z31a9.mp4", "duration": None},
-            {"number": 12, "name": "Episódio 12", "url": "https://files.catbox.moe/mck588.mp4", "duration": None}
-        ]
+      "id": "tonikaku-s1",
+      "title": "Tonikaku Kawaii (S1)",
+      "alternative_titles": [
+        "TONIKAWA: Over the Moon for You",
+        "Fly Me to the Moon"
+      ],
+      "year": 2020,
+      "season": "Outono de 2020",
+      "type": "TV",
+      "episodes_count": 12,
+      "audio": "Dublado / Legendado",
+      "genres": [
+        "Comédia",
+        "Romance",
+        "Slice of Life"
+      ],
+      "themes": [
+        "Casamento",
+        "Vida a Dois"
+      ],
+      "studio": "Seven Arcs",
+      "description": "Nasa Yuzaki é salvo de um acidente por uma garota misteriosa chamada Tsukasa. Anos depois, ela reaparece à sua porta com um pedido de casamento imediato, dando início a uma comédia romântica leve sobre recém-casados aprendendo a viver juntos.",
+      "image": "https://animefire.io/img/animes/tonikaku-kawaii-large.webp",
+      "episodes": [
+        {
+          "number": 1,
+          "name": "Ep 1 (Dublado)",
+          "url": "https://files.catbox.moe/tp1akk.mp4",
+          "duration": null
+        },
+        {
+          "number": 2,
+          "name": "Episódio 2",
+          "url": "https://files.catbox.moe/jss8l5.mp4",
+          "duration": null
+        },
+        {
+          "number": 3,
+          "name": "Episódio 3",
+          "url": "https://files.catbox.moe/p5k23k.mp4",
+          "duration": null
+        },
+        {
+          "number": 4,
+          "name": "Episódio 4",
+          "url": "https://files.catbox.moe/g2yuyj.mp4",
+          "duration": null
+        },
+        {
+          "number": 5,
+          "name": "Episódio 5",
+          "url": "https://files.catbox.moe/xjfhck.mp4",
+          "duration": null
+        },
+        {
+          "number": 6,
+          "name": "Episódio 6",
+          "url": "https://files.catbox.moe/00s1zt.mp4",
+          "duration": null
+        },
+        {
+          "number": 7,
+          "name": "Episódio 7",
+          "url": "https://files.catbox.moe/g38l1p.mp4",
+          "duration": null
+        },
+        {
+          "number": 8,
+          "name": "Episódio 8",
+          "url": "https://files.catbox.moe/4nnhuc.mp4",
+          "duration": null
+        },
+        {
+          "number": 9,
+          "name": "Episódio 9",
+          "url": "https://files.catbox.moe/wng95c.mp4",
+          "duration": null
+        },
+        {
+          "number": 10,
+          "name": "Episódio 10",
+          "url": "https://files.catbox.moe/7lg9c9.mp4",
+          "duration": null
+        },
+        {
+          "number": 11,
+          "name": "Episódio 11",
+          "url": "https://files.catbox.moe/3z31a9.mp4",
+          "duration": null
+        },
+        {
+          "number": 12,
+          "name": "Episódio 12",
+          "url": "https://files.catbox.moe/mck588.mp4",
+          "duration": null
+        }
+      ]
     },
     {
-        "id": "tonikaku-s2",
-        "title": "Tonikaku Kawaii Season 2",
-        "alternative_titles": ["TONIKAWA: Over the Moon for You 2nd Season"],
-        "year": 2023,
-        "season": "Primavera de 2023",
-        "type": "TV",
-        "episodes_count": 13,
-        "audio": "Legendado",
-        "genres": ["Comédia", "Romance", "Slice of Life"],
-        "themes": ["Casamento", "Vida a Dois"],
-        "studio": "Seven Arcs",
-        "description": "Segunda temporada de Tonikaku Kawaii, acompanhando novos momentos do cotidiano de Nasa e Tsukasa, novas amizades e os primeiros indícios dos mistérios por trás da história de Tsukasa.",
-        "image": "https://animefire.io/img/animes/tonikaku-kawaii-2nd-season-large.webp",
-        "episodes": [
-            {"number": 1, "name": "Episódio 1", "url": "https://files.catbox.moe/hj5ddy.mp4", "duration": None},
-            {"number": 2, "name": "Episódio 2", "url": "https://files.catbox.moe/cx1nuy.mp4", "duration": None},
-            {"number": 3, "name": "Episódio 3", "url": "https://files.catbox.moe/vrjjyh.mp4", "duration": None},
-            {"number": 4, "name": "Episódio 4", "url": "https://files.catbox.moe/d7u5gt.mp4", "duration": None},
-            {"number": 5, "name": "Episódio 5", "url": "https://files.catbox.moe/bvbue6.mp4", "duration": None},
-            {"number": 6, "name": "Episódio 6", "url": "https://files.catbox.moe/niyf9l.mp4", "duration": None},
-            {"number": 7, "name": "Episódio 7", "url": "https://files.catbox.moe/tmxjvo.mp4", "duration": None},
-            {"number": 8, "name": "Episódio 8", "url": "https://files.catbox.moe/dnx53l.mp4", "duration": None},
-            {"number": 9, "name": "Episódio 9", "url": "https://files.catbox.moe/jrn9p7.mp4", "duration": None},
-            {"number": 10, "name": "Episódio 10", "url": "https://files.catbox.moe/nqlvtp.mp4", "duration": None},
-            {"number": 11, "name": "Episódio 11", "url": "https://files.catbox.moe/rgfmvj.mp4", "duration": None},
-            {"number": 12, "name": "Episódio 12", "url": "https://files.catbox.moe/bjbcod.mp4", "duration": None},
-            {"number": 13, "name": "Episódio 13", "url": "https://files.catbox.moe/6egukc.mp4", "duration": None}
-        ]
+      "id": "tonikaku-s2",
+      "title": "Tonikaku Kawaii Season 2",
+      "alternative_titles": [
+        "TONIKAWA: Over the Moon for You 2nd Season"
+      ],
+      "year": 2023,
+      "season": "Primavera de 2023",
+      "type": "TV",
+      "episodes_count": 13,
+      "audio": "Legendado",
+      "genres": [
+        "Comédia",
+        "Romance",
+        "Slice of Life"
+      ],
+      "themes": [
+        "Casamento",
+        "Vida a Dois"
+      ],
+      "studio": "Seven Arcs",
+      "description": "Segunda temporada de Tonikaku Kawaii, acompanhando novos momentos do cotidiano de Nasa e Tsukasa, novas amizades e os primeiros indícios dos mistérios por trás da história de Tsukasa.",
+      "image": "https://animefire.io/img/animes/tonikaku-kawaii-2nd-season-large.webp",
+      "episodes": [
+        {
+          "number": 1,
+          "name": "Episódio 1",
+          "url": "https://files.catbox.moe/hj5ddy.mp4",
+          "duration": null
+        },
+        {
+          "number": 2,
+          "name": "Episódio 2",
+          "url": "https://files.catbox.moe/cx1nuy.mp4",
+          "duration": null
+        },
+        {
+          "number": 3,
+          "name": "Episódio 3",
+          "url": "https://files.catbox.moe/vrjjyh.mp4",
+          "duration": null
+        },
+        {
+          "number": 4,
+          "name": "Episódio 4",
+          "url": "https://files.catbox.moe/d7u5gt.mp4",
+          "duration": null
+        },
+        {
+          "number": 5,
+          "name": "Episódio 5",
+          "url": "https://files.catbox.moe/bvbue6.mp4",
+          "duration": null
+        },
+        {
+          "number": 6,
+          "name": "Episódio 6",
+          "url": "https://files.catbox.moe/niyf9l.mp4",
+          "duration": null
+        },
+        {
+          "number": 7,
+          "name": "Episódio 7",
+          "url": "https://files.catbox.moe/tmxjvo.mp4",
+          "duration": null
+        },
+        {
+          "number": 8,
+          "name": "Episódio 8",
+          "url": "https://files.catbox.moe/dnx53l.mp4",
+          "duration": null
+        },
+        {
+          "number": 9,
+          "name": "Episódio 9",
+          "url": "https://files.catbox.moe/jrn9p7.mp4",
+          "duration": null
+        },
+        {
+          "number": 10,
+          "name": "Episódio 10",
+          "url": "https://files.catbox.moe/nqlvtp.mp4",
+          "duration": null
+        },
+        {
+          "number": 11,
+          "name": "Episódio 11",
+          "url": "https://files.catbox.moe/rgfmvj.mp4",
+          "duration": null
+        },
+        {
+          "number": 12,
+          "name": "Episódio 12",
+          "url": "https://files.catbox.moe/bjbcod.mp4",
+          "duration": null
+        },
+        {
+          "number": 13,
+          "name": "Episódio 13",
+          "url": "https://files.catbox.moe/6egukc.mp4",
+          "duration": null
+        }
+      ]
     },
     {
-        "id": "yamada-kun",
-        "title": "Yamada-kun and the 7 Witches",
-        "alternative_titles": ["Yamada-kun to 7-nin no Majo", "Yamada-kun e as 7 Bruxas"],
-        "year": 2015,
-        "season": "Primavera de 2015",
-        "type": "TV + OVA",
-        "episodes_count": 14,
-        "audio": "Legendado",
-        "genres": ["Comédia", "Mistério", "Romance", "Sobrenatural"],
-        "themes": ["Escola", "Troca de Corpos", "Bruxas"],
-        "studio": "LIDENFILMS",
-        "description": "Ryu Yamada, um estudante delinquente conhecido por suas brigas, cai da escada e troca de corpo com a aluna exemplar Urara Shiraishi após um beijo acidental. Logo ambos descobrem a existência de sete bruxas na escola e formam um clube para investigar seus poderes.",
-        "image": "https://m.media-amazon.com/images/I/71Y0Vp34B8L._AC_UF1000,1000_QL80_.jpg",
-        "episodes": [
-            {"number": 1, "name": "Ep 1: Primeiro Beijo", "url": "https://files.catbox.moe/zgji15.mp4", "duration": None},
-            {"number": 2, "name": "Ep 2: Clube Jornalismo", "url": "https://files.catbox.moe/0swzn8.mp4", "duration": None},
-            {"number": 3, "name": "Ep 3: Bruxa e Segredo", "url": "https://files.catbox.moe/6bjw3o.mp4", "duration": None},
-            {"number": 4, "name": "Ep 4: Apaixonada!", "url": "https://files.catbox.moe/3a4v38.mp4", "duration": None},
-            {"number": 5, "name": "Ep 5: Não Beijar", "url": "https://files.catbox.moe/tinj1o.mp4", "duration": None},
-            {"number": 6, "name": "Ep 6: Responda!", "url": "https://files.catbox.moe/jjq3u7.mp4", "duration": None},
-            {"number": 7, "name": "Ep 7: Tempurá!", "url": "https://files.catbox.moe/f048tz.mp4", "duration": None},
-            {"number": 8, "name": "Ep 8: Irritante!", "url": "https://files.catbox.moe/3t0kt4.mp4", "duration": None},
-            {"number": 9, "name": "Ep 9: Futuro", "url": "https://files.catbox.moe/dfj6wt.mp4", "duration": None},
-            {"number": 10, "name": "Ep 10: Namore Comigo", "url": "https://files.catbox.moe/jbyvil.mp4", "duration": None},
-            {"number": 11, "name": "Ep 11: Shiraishi?", "url": "https://files.catbox.moe/k1mu22.mp4", "duration": None},
-            {"number": 12, "name": "Ep 12: Eu Te Amo", "url": "https://files.catbox.moe/uve27o.mp4", "duration": None},
-            {"number": 13, "name": "OVA 1: Festival Parte 1", "url": "https://files.catbox.moe/i3tlnh.mp4", "duration": None},
-            {"number": 14, "name": "OVA 2: Festival Parte 2", "url": "https://files.catbox.moe/taqp4v.mp4", "duration": None}
-        ]
+      "id": "yamada-kun",
+      "title": "Yamada-kun and the 7 Witches",
+      "alternative_titles": [
+        "Yamada-kun to 7-nin no Majo",
+        "Yamada-kun e as 7 Bruxas"
+      ],
+      "year": 2015,
+      "season": "Primavera de 2015",
+      "type": "TV + OVA",
+      "episodes_count": 14,
+      "audio": "Legendado",
+      "genres": [
+        "Comédia",
+        "Mistério",
+        "Romance",
+        "Sobrenatural"
+      ],
+      "themes": [
+        "Escola",
+        "Troca de Corpos",
+        "Bruxas"
+      ],
+      "studio": "LIDENFILMS",
+      "description": "Ryu Yamada, um estudante delinquente conhecido por suas brigas, cai da escada e troca de corpo com a aluna exemplar Urara Shiraishi após um beijo acidental. Logo ambos descobrem a existência de sete bruxas na escola e formam um clube para investigar seus poderes.",
+      "image": "https://m.media-amazon.com/images/I/71Y0Vp34B8L._AC_UF1000,1000_QL80_.jpg",
+      "episodes": [
+        {
+          "number": 1,
+          "name": "Ep 1: Primeiro Beijo",
+          "url": "https://files.catbox.moe/zgji15.mp4",
+          "duration": null
+        },
+        {
+          "number": 2,
+          "name": "Ep 2: Clube Jornalismo",
+          "url": "https://files.catbox.moe/0swzn8.mp4",
+          "duration": null
+        },
+        {
+          "number": 3,
+          "name": "Ep 3: Bruxa e Segredo",
+          "url": "https://files.catbox.moe/6bjw3o.mp4",
+          "duration": null
+        },
+        {
+          "number": 4,
+          "name": "Ep 4: Apaixonada!",
+          "url": "https://files.catbox.moe/3a4v38.mp4",
+          "duration": null
+        },
+        {
+          "number": 5,
+          "name": "Ep 5: Não Beijar",
+          "url": "https://files.catbox.moe/tinj1o.mp4",
+          "duration": null
+        },
+        {
+          "number": 6,
+          "name": "Ep 6: Responda!",
+          "url": "https://files.catbox.moe/jjq3u7.mp4",
+          "duration": null
+        },
+        {
+          "number": 7,
+          "name": "Ep 7: Tempurá!",
+          "url": "https://files.catbox.moe/f048tz.mp4",
+          "duration": null
+        },
+        {
+          "number": 8,
+          "name": "Ep 8: Irritante!",
+          "url": "https://files.catbox.moe/3t0kt4.mp4",
+          "duration": null
+        },
+        {
+          "number": 9,
+          "name": "Ep 9: Futuro",
+          "url": "https://files.catbox.moe/dfj6wt.mp4",
+          "duration": null
+        },
+        {
+          "number": 10,
+          "name": "Ep 10: Namore Comigo",
+          "url": "https://files.catbox.moe/jbyvil.mp4",
+          "duration": null
+        },
+        {
+          "number": 11,
+          "name": "Ep 11: Shiraishi?",
+          "url": "https://files.catbox.moe/k1mu22.mp4",
+          "duration": null
+        },
+        {
+          "number": 12,
+          "name": "Ep 12: Eu Te Amo",
+          "url": "https://files.catbox.moe/uve27o.mp4",
+          "duration": null
+        },
+        {
+          "number": 13,
+          "name": "OVA 1: Festival Parte 1",
+          "url": "https://files.catbox.moe/i3tlnh.mp4",
+          "duration": null
+        },
+        {
+          "number": 14,
+          "name": "OVA 2: Festival Parte 2",
+          "url": "https://files.catbox.moe/taqp4v.mp4",
+          "duration": null
+        }
+      ]
     },
     {
-        "id": "kaoru-hana",
-        "title": "Kaoru Hana wa Rin to Saku",
-        "alternative_titles": ["The Fragrant Flower Blooms with Dignity"],
-        "year": 2025,
-        "season": "Verão de 2025",
-        "type": "TV",
-        "episodes_count": 3,
-        "audio": "Legendado",
-        "genres": ["Drama", "Romance", "Slice of Life"],
-        "themes": ["Escola", "Amizade", "Superação de Preconceitos"],
-        "studio": "CloverWorks",
-        "description": "Rintaro Tsumugi, um jovem de aparência intimidadora que ajuda na confeitaria da família, conhece Kaoruko Waguri, uma garota gentil de uma escola rival de elite. Entre eles surge um laço sincero que desafia as rivalidades e os julgamentos entre suas escolas.",
-        "image": "https://m.media-amazon.com/images/I/81I3RImMhUL._AC_UF1000,1000_QL80_.jpg",
-        "episodes": [
-            {"number": 1, "name": "Ep 1: Encontro das Flores", "url": "https://files.catbox.moe/b2xrd8.mp4", "duration": None},
-            {"number": 2, "name": "Ep 2: Cheiro das Memórias", "url": "https://files.catbox.moe/1rm6yc.mp4", "duration": None},
-            {"number": 3, "name": "Ep 3: Pétalas ao Vento", "url": "https://files.catbox.moe/j86ppu.mp4", "duration": None}
-        ]
+      "id": "kaoru-hana",
+      "title": "Kaoru Hana wa Rin to Saku",
+      "alternative_titles": [
+        "The Fragrant Flower Blooms with Dignity"
+      ],
+      "year": 2025,
+      "season": "Verão de 2025",
+      "type": "TV",
+      "episodes_count": 3,
+      "audio": "Legendado",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "themes": [
+        "Escola",
+        "Amizade",
+        "Superação de Preconceitos"
+      ],
+      "studio": "CloverWorks",
+      "description": "Rintaro Tsumugi, um jovem de aparência intimidadora que ajuda na confeitaria da família, conhece Kaoruko Waguri, uma garota gentil de uma escola rival de elite. Entre eles surge um laço sincero que desafia as rivalidades e os julgamentos entre suas escolas.",
+      "image": "https://m.media-amazon.com/images/I/81I3RImMhUL._AC_UF1000,1000_QL80_.jpg",
+      "episodes": [
+        {
+          "number": 1,
+          "name": "Ep 1: Encontro das Flores",
+          "url": "https://files.catbox.moe/b2xrd8.mp4",
+          "duration": null
+        },
+        {
+          "number": 2,
+          "name": "Ep 2: Cheiro das Memórias",
+          "url": "https://files.catbox.moe/1rm6yc.mp4",
+          "duration": null
+        },
+        {
+          "number": 3,
+          "name": "Ep 3: Pétalas ao Vento",
+          "url": "https://files.catbox.moe/j86ppu.mp4",
+          "duration": null
+        }
+      ]
     },
     {
-        "id": "paranoia-agent",
-        "title": "Paranoia Agent",
-        "alternative_titles": ["Mousou Dairinin"],
-        "year": 2004,
-        "season": "Inverno de 2004",
-        "type": "TV",
-        "episodes_count": 13,
-        "audio": "Legendado",
-        "genres": ["Drama", "Mistério", "Suspense", "Psicológico"],
-        "themes": ["Paranoia", "Realidade vs. Ilusão", "Estresse Urbano"],
-        "studio": "Madhouse",
-        "description": "Em Tóquio, pessoas sob forte pressão começam a ser atacadas por um misterioso agressor de patins dourados e taco de beisebol, conhecido como Shonen Bat. Dois detetives investigam o caso enquanto a histeria coletiva se espalha pela cidade.",
-        "image": "https://m.media-amazon.com/images/M/MV5BMjA0MzE0ODAzOF5BMl5BanBnXkFtZTcwNTI5OTM0MQ@@._V1_.jpg",
-        "episodes": [
-            {"number": 1, "name": "Ep 1: Menino do Taco", "url": "https://files.catbox.moe/p3n3yx.mp4", "duration": None},
-            {"number": 2, "name": "Ep 2: Herói Cidade", "url": "https://files.catbox.moe/7y9qtl.mp4", "duration": None},
-            {"number": 3, "name": "Ep 3: Muitas Faces", "url": "https://files.catbox.moe/pg709j.mp4", "duration": None},
-            {"number": 4, "name": "Ep 4: Felicidade Família", "url": "https://files.catbox.moe/d15o3r.mp4", "duration": None},
-            {"number": 5, "name": "Ep 5: Meu Herói", "url": "https://files.catbox.moe/57wfsn.mp4", "duration": None},
-            {"number": 6, "name": "Ep 6: O Veredito", "url": "https://files.catbox.moe/80ofyl.mp4", "duration": None},
-            {"number": 7, "name": "Ep 7: MGS", "url": "https://files.catbox.moe/9pngsr.mp4", "duration": None},
-            {"number": 8, "name": "Ep 8: Canção Boa Sorte", "url": "https://files.catbox.moe/l8wk7w.mp4", "duration": None},
-            {"number": 9, "name": "Ep 9: Herói Escuridão", "url": "https://files.catbox.moe/6qj6hc.mp4", "duration": None},
-            {"number": 10, "name": "Ep 10: Cão de Papel", "url": "https://files.catbox.moe/8onryb.mp4", "duration": None},
-            {"number": 11, "name": "Ep 11: Meguro no Sannin", "url": "https://files.catbox.moe/lq9j9e.mp4", "duration": None},
-            {"number": 12, "name": "Ep 12: Fim do Mundo", "url": "https://files.catbox.moe/bl2xwq.mp4", "duration": None},
-            {"number": 13, "name": "Ep 13: Estrada Realidade", "url": "https://files.catbox.moe/saro3p.mp4", "duration": None}
-        ]
+      "id": "paranoia-agent",
+      "title": "Paranoia Agent",
+      "alternative_titles": [
+        "Mousou Dairinin"
+      ],
+      "year": 2004,
+      "season": "Inverno de 2004",
+      "type": "TV",
+      "episodes_count": 13,
+      "audio": "Legendado",
+      "genres": [
+        "Drama",
+        "Mistério",
+        "Suspense",
+        "Psicológico"
+      ],
+      "themes": [
+        "Paranoia",
+        "Realidade vs. Ilusão",
+        "Estresse Urbano"
+      ],
+      "studio": "Madhouse",
+      "description": "Em Tóquio, pessoas sob forte pressão começam a ser atacadas por um misterioso agressor de patins dourados e taco de beisebol, conhecido como Shonen Bat. Dois detetives investigam o caso enquanto a histeria coletiva se espalha pela cidade.",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA0MzE0ODAzOF5BMl5BanBnXkFtZTcwNTI5OTM0MQ@@._V1_.jpg",
+      "episodes": [
+        {
+          "number": 1,
+          "name": "Ep 1: Menino do Taco",
+          "url": "https://files.catbox.moe/p3n3yx.mp4",
+          "duration": null
+        },
+        {
+          "number": 2,
+          "name": "Ep 2: Herói Cidade",
+          "url": "https://files.catbox.moe/7y9qtl.mp4",
+          "duration": null
+        },
+        {
+          "number": 3,
+          "name": "Ep 3: Muitas Faces",
+          "url": "https://files.catbox.moe/pg709j.mp4",
+          "duration": null
+        },
+        {
+          "number": 4,
+          "name": "Ep 4: Felicidade Família",
+          "url": "https://files.catbox.moe/d15o3r.mp4",
+          "duration": null
+        },
+        {
+          "number": 5,
+          "name": "Ep 5: Meu Herói",
+          "url": "https://files.catbox.moe/57wfsn.mp4",
+          "duration": null
+        },
+        {
+          "number": 6,
+          "name": "Ep 6: O Veredito",
+          "url": "https://files.catbox.moe/80ofyl.mp4",
+          "duration": null
+        },
+        {
+          "number": 7,
+          "name": "Ep 7: MGS",
+          "url": "https://files.catbox.moe/9pngsr.mp4",
+          "duration": null
+        },
+        {
+          "number": 8,
+          "name": "Ep 8: Canção Boa Sorte",
+          "url": "https://files.catbox.moe/l8wk7w.mp4",
+          "duration": null
+        },
+        {
+          "number": 9,
+          "name": "Ep 9: Herói Escuridão",
+          "url": "https://files.catbox.moe/6qj6hc.mp4",
+          "duration": null
+        },
+        {
+          "number": 10,
+          "name": "Ep 10: Cão de Papel",
+          "url": "https://files.catbox.moe/8onryb.mp4",
+          "duration": null
+        },
+        {
+          "number": 11,
+          "name": "Ep 11: Meguro no Sannin",
+          "url": "https://files.catbox.moe/lq9j9e.mp4",
+          "duration": null
+        },
+        {
+          "number": 12,
+          "name": "Ep 12: Fim do Mundo",
+          "url": "https://files.catbox.moe/bl2xwq.mp4",
+          "duration": null
+        },
+        {
+          "number": 13,
+          "name": "Ep 13: Estrada Realidade",
+          "url": "https://files.catbox.moe/saro3p.mp4",
+          "duration": null
+        }
+      ]
     },
     {
-        "id": "rezero-legendado",
-        "title": "Re:Zero (Legendado)",
-        "alternative_titles": ["Re:Zero kara Hajimeru Isekai Seikatsu", "Re:ZERO -Starting Life in Another World-"],
-        "year": 2016,
-        "season": "Primavera de 2016",
-        "type": "TV",
-        "episodes_count": 25,
-        "audio": "Legendado",
-        "genres": ["Drama", "Fantasia", "Suspense", "Psicológico"],
-        "themes": ["Isekai", "Loop Temporal", "Reencarnação"],
-        "studio": "White Fox",
-        "description": "Subaru Natsuki é transportado repentinamente para um mundo de fantasia sem poderes especiais, descobrindo que possui a habilidade de 'Retornar pela Morte' — voltando no tempo sempre que morre para tentar salvar quem ama.",
-        "image": "https://br.web.img3.acsta.net/pictures/17/08/17/14/03/400619.jpg",
-        "episodes": [
-            {"number": 1, "name": "Ep 1: Começo (50m)", "url": "https://ucarecdn.com/c42411a7-1929-4cde-9dcb-1bf538c6c0d5/", "duration": "50min"},
-            {"number": 2, "name": "Ep 2: Reencontro", "url": "https://files.catbox.moe/euw1z1.mp4", "duration": "24min"},
-            {"number": 3, "name": "Ep 3: Vida do Zero", "url": "https://files.catbox.moe/8jqf29.mp4", "duration": None},
-            {"number": 4, "name": "Ep 4: Mansão Roswaal", "url": "https://files.catbox.moe/o4e313.mp4", "duration": None},
-            {"number": 5, "name": "Ep 5: Manhã Distante", "url": "https://files.catbox.moe/uzp5ss.mp4", "duration": None},
-            {"number": 6, "name": "Ep 6: Som de Correntes", "url": "https://files.catbox.moe/w3goq2.mp4", "duration": None},
-            {"number": 7, "name": "Ep 7: Reinício", "url": "https://files.catbox.moe/em3h10.mp4", "duration": None},
-            {"number": 8, "name": "Ep 8: Chorei", "url": "https://files.catbox.moe/bq8p9d.mp4", "duration": None},
-            {"number": 9, "name": "Ep 9: Coragem", "url": "https://files.catbox.moe/ezmrxf.mp4", "duration": None},
-            {"number": 10, "name": "Ep 10: Fanático", "url": "https://files.catbox.moe/kbh9vb.mp4", "duration": None},
-            {"number": 11, "name": "Ep 11: Rem", "url": "https://files.catbox.moe/n88ibf.mp4", "duration": None},
-            {"number": 12, "name": "Ep 12: Capital", "url": "https://files.catbox.moe/84mslc.mp4", "duration": None},
-            {"number": 13, "name": "Ep 13: Cavaleiro", "url": "https://files.catbox.moe/z5cfgn.mp4", "duration": None},
-            {"number": 14, "name": "Ep 14: Desespero", "url": "https://files.catbox.moe/0hcmhs.mp4", "duration": None},
-            {"number": 15, "name": "Ep 15: Loucura", "url": "https://files.catbox.moe/5vof0g.mp4", "duration": None},
-            {"number": 16, "name": "Ep 16: Ganância", "url": "https://files.catbox.moe/dhthwq.mp4", "duration": None},
-            {"number": 17, "name": "Ep 17: Desonra", "url": "https://files.catbox.moe/m4u8ui.mp4", "duration": None},
-            {"number": 18, "name": "Ep 18: Do Zero", "url": "https://files.catbox.moe/938ogx.mp4", "duration": None},
-            {"number": 19, "name": "Ep 19: Baleia Branca", "url": "https://files.catbox.moe/2un1vd.mp4", "duration": None},
-            {"number": 20, "name": "Ep 20: Wilhelm", "url": "https://files.catbox.moe/n1bvuv.mp4", "duration": None},
-            {"number": 21, "name": "Ep 21: Aposta", "url": "https://files.catbox.moe/elx1mb.mp4", "duration": None},
-            {"number": 22, "name": "Ep 22: Preguiça", "url": "https://files.catbox.moe/qdeyz9.mp4", "duration": None},
-            {"number": 23, "name": "Ep 23: Mutável", "url": "https://files.catbox.moe/saxwx6.mp4", "duration": None},
-            {"number": 24, "name": "Ep 24: Melhores", "url": "https://files.catbox.moe/c3bxx1.mp4", "duration": None},
-            {"number": 25, "name": "Ep 25: É Tudo", "url": "https://files.catbox.moe/bnbv5i.mp4", "duration": None}
-        ]
+      "id": "rezero-legendado",
+      "title": "Re:Zero (Legendado)",
+      "alternative_titles": [
+        "Re:Zero kara Hajimeru Isekai Seikatsu",
+        "Re:ZERO -Starting Life in Another World-"
+      ],
+      "year": 2016,
+      "season": "Primavera de 2016",
+      "type": "TV",
+      "episodes_count": 25,
+      "audio": "Legendado",
+      "genres": [
+        "Drama",
+        "Fantasia",
+        "Suspense",
+        "Psicológico"
+      ],
+      "themes": [
+        "Isekai",
+        "Loop Temporal",
+        "Reencarnação"
+      ],
+      "studio": "White Fox",
+      "description": "Subaru Natsuki é transportado repentinamente para um mundo de fantasia sem poderes especiais, descobrindo que possui a habilidade de 'Retornar pela Morte' — voltando no tempo sempre que morre para tentar salvar quem ama.",
+      "image": "https://br.web.img3.acsta.net/pictures/17/08/17/14/03/400619.jpg",
+      "episodes": [
+        {
+          "number": 1,
+          "name": "Ep 1: Começo (50m)",
+          "url": "https://ucarecdn.com/c42411a7-1929-4cde-9dcb-1bf538c6c0d5/",
+          "duration": "50min"
+        },
+        {
+          "number": 2,
+          "name": "Ep 2: Reencontro",
+          "url": "https://files.catbox.moe/euw1z1.mp4",
+          "duration": "24min"
+        },
+        {
+          "number": 3,
+          "name": "Ep 3: Vida do Zero",
+          "url": "https://files.catbox.moe/8jqf29.mp4",
+          "duration": null
+        },
+        {
+          "number": 4,
+          "name": "Ep 4: Mansão Roswaal",
+          "url": "https://files.catbox.moe/o4e313.mp4",
+          "duration": null
+        },
+        {
+          "number": 5,
+          "name": "Ep 5: Manhã Distante",
+          "url": "https://files.catbox.moe/uzp5ss.mp4",
+          "duration": null
+        },
+        {
+          "number": 6,
+          "name": "Ep 6: Som de Correntes",
+          "url": "https://files.catbox.moe/w3goq2.mp4",
+          "duration": null
+        },
+        {
+          "number": 7,
+          "name": "Ep 7: Reinício",
+          "url": "https://files.catbox.moe/em3h10.mp4",
+          "duration": null
+        },
+        {
+          "number": 8,
+          "name": "Ep 8: Chorei",
+          "url": "https://files.catbox.moe/bq8p9d.mp4",
+          "duration": null
+        },
+        {
+          "number": 9,
+          "name": "Ep 9: Coragem",
+          "url": "https://files.catbox.moe/ezmrxf.mp4",
+          "duration": null
+        },
+        {
+          "number": 10,
+          "name": "Ep 10: Fanático",
+          "url": "https://files.catbox.moe/kbh9vb.mp4",
+          "duration": null
+        },
+        {
+          "number": 11,
+          "name": "Ep 11: Rem",
+          "url": "https://files.catbox.moe/n88ibf.mp4",
+          "duration": null
+        },
+        {
+          "number": 12,
+          "name": "Ep 12: Capital",
+          "url": "https://files.catbox.moe/84mslc.mp4",
+          "duration": null
+        },
+        {
+          "number": 13,
+          "name": "Ep 13: Cavaleiro",
+          "url": "https://files.catbox.moe/z5cfgn.mp4",
+          "duration": null
+        },
+        {
+          "number": 14,
+          "name": "Ep 14: Desespero",
+          "url": "https://files.catbox.moe/0hcmhs.mp4",
+          "duration": null
+        },
+        {
+          "number": 15,
+          "name": "Ep 15: Loucura",
+          "url": "https://files.catbox.moe/5vof0g.mp4",
+          "duration": null
+        },
+        {
+          "number": 16,
+          "name": "Ep 16: Ganância",
+          "url": "https://files.catbox.moe/dhthwq.mp4",
+          "duration": null
+        },
+        {
+          "number": 17,
+          "name": "Ep 17: Desonra",
+          "url": "https://files.catbox.moe/m4u8ui.mp4",
+          "duration": null
+        },
+        {
+          "number": 18,
+          "name": "Ep 18: Do Zero",
+          "url": "https://files.catbox.moe/938ogx.mp4",
+          "duration": null
+        },
+        {
+          "number": 19,
+          "name": "Ep 19: Baleia Branca",
+          "url": "https://files.catbox.moe/2un1vd.mp4",
+          "duration": null
+        },
+        {
+          "number": 20,
+          "name": "Ep 20: Wilhelm",
+          "url": "https://files.catbox.moe/n1bvuv.mp4",
+          "duration": null
+        },
+        {
+          "number": 21,
+          "name": "Ep 21: Aposta",
+          "url": "https://files.catbox.moe/elx1mb.mp4",
+          "duration": null
+        },
+        {
+          "number": 22,
+          "name": "Ep 22: Preguiça",
+          "url": "https://files.catbox.moe/qdeyz9.mp4",
+          "duration": null
+        },
+        {
+          "number": 23,
+          "name": "Ep 23: Mutável",
+          "url": "https://files.catbox.moe/saxwx6.mp4",
+          "duration": null
+        },
+        {
+          "number": 24,
+          "name": "Ep 24: Melhores",
+          "url": "https://files.catbox.moe/c3bxx1.mp4",
+          "duration": null
+        },
+        {
+          "number": 25,
+          "name": "Ep 25: É Tudo",
+          "url": "https://files.catbox.moe/bnbv5i.mp4",
+          "duration": null
+        }
+      ]
     },
     {
-        "id": "rezero-dublado",
-        "title": "Re:Zero (Dublado)",
-        "alternative_titles": ["Re:Zero kara Hajimeru Isekai Seikatsu", "Re:ZERO -Starting Life in Another World-"],
-        "year": 2016,
-        "season": "Primavera de 2016",
-        "type": "TV",
-        "episodes_count": 25,
-        "audio": "Dublado",
-        "genres": ["Drama", "Fantasia", "Suspense", "Psicológico"],
-        "themes": ["Isekai", "Loop Temporal", "Reencarnação"],
-        "studio": "White Fox",
-        "description": "Versão dublada da primeira temporada de Re:Zero, acompanhando Subaru Natsuki em um mundo de fantasia brutal onde ele precisa usar sua habilidade de retornar no tempo após a morte para alterar destinos trágicos.",
-        "image": "https://imgs.idlumine.net/wp-content/uploads/2021/04/ReZero-Season-1-Dubbed.jpg",
-        "episodes": [
-            {"number": 1, "name": "Episódio 1", "url": "https://ucarecdn.com/eea57af5-1e2b-43a5-967a-6b6e5cbaca8e/", "duration": None},
-            {"number": 2, "name": "Episódio 2", "url": "https://files.catbox.moe/4w5zl1.mp4", "duration": None},
-            {"number": 3, "name": "Episódio 3", "url": "https://files.catbox.moe/n0wrcs.mp4", "duration": None},
-            {"number": 4, "name": "Episódio 4", "url": "https://files.catbox.moe/tzzx30.mp4", "duration": None},
-            {"number": 5, "name": "Episódio 5", "url": "https://ucarecdn.com/e4c52252-2b5d-4bda-9655-1375fa35bd5d/", "duration": None},
-            {"number": 6, "name": "Episódio 6", "url": "https://files.catbox.moe/3wurzl.mp4", "duration": None},
-            {"number": 7, "name": "Episódio 7", "url": "https://ucarecdn.com/4371fdeb-949c-4589-95a0-8163f26b6708/", "duration": None},
-            {"number": 8, "name": "Episódio 8", "url": "https://ucarecdn.com/96e25128-da82-4b22-876a-fd71364bfc03/", "duration": None},
-            {"number": 9, "name": "Episódio 9", "url": "https://files.catbox.moe/q0i5hu.mp4", "duration": None},
-            {"number": 10, "name": "Episódio 10", "url": "https://files.catbox.moe/qbgjdq.mp4", "duration": None},
-            {"number": 11, "name": "Episódio 11", "url": "https://files.catbox.moe/yc70ha.mp4", "duration": None},
-            {"number": 12, "name": "Episódio 12", "url": "https://files.catbox.moe/nfncgw.mp4", "duration": None},
-            {"number": 13, "name": "Episódio 13", "url": "https://files.catbox.moe/75f6og.mp4", "duration": None},
-            {"number": 14, "name": "Episódio 14", "url": "https://files.catbox.moe/bwshgr.mp4", "duration": None},
-            {"number": 15, "name": "Episódio 15", "url": "https://files.catbox.moe/sbq4ky.mp4", "duration": None},
-            {"number": 16, "name": "Episódio 16", "url": "https://files.catbox.moe/heq0p5.mp4", "duration": None},
-            {"number": 17, "name": "Episódio 17", "url": "https://files.catbox.moe/eol71t.mp4", "duration": None},
-            {"number": 18, "name": "Episódio 18", "url": "https://files.catbox.moe/3mrb3g.mp4", "duration": None},
-            {"number": 19, "name": "Episódio 19", "url": "https://files.catbox.moe/1ydi0h.mp4", "duration": None},
-            {"number": 20, "name": "Episódio 20", "url": "https://files.catbox.moe/yasmzw.mp4", "duration": None},
-            {"number": 21, "name": "Episódio 21", "url": "https://files.catbox.moe/tii1w2.mp4", "duration": None},
-            {"number": 22, "name": "Episódio 22", "url": "https://files.catbox.moe/5ltsp1.mp4", "duration": None},
-            {"number": 23, "name": "Episódio 23", "url": "https://files.catbox.moe/j39s7p.mp4", "duration": None},
-            {"number": 24, "name": "Episódio 24", "url": "https://files.catbox.moe/puari4.mp4", "duration": None},
-            {"number": 25, "name": "Episódio 25", "url": "https://ucarecdn.com/ce37f251-5578-4561-a381-6d6da5ed7d7e/", "duration": None}
-        ]
+      "id": "rezero-dublado",
+      "title": "Re:Zero (Dublado)",
+      "alternative_titles": [
+        "Re:Zero kara Hajimeru Isekai Seikatsu",
+        "Re:ZERO -Starting Life in Another World-"
+      ],
+      "year": 2016,
+      "season": "Primavera de 2016",
+      "type": "TV",
+      "episodes_count": 25,
+      "audio": "Dublado",
+      "genres": [
+        "Drama",
+        "Fantasia",
+        "Suspense",
+        "Psicológico"
+      ],
+      "themes": [
+        "Isekai",
+        "Loop Temporal",
+        "Reencarnação"
+      ],
+      "studio": "White Fox",
+      "description": "Versão dublada da primeira temporada de Re:Zero, acompanhando Subaru Natsuki em um mundo de fantasia brutal onde ele precisa usar sua habilidade de retornar no tempo após a morte para alterar destinos trágicos.",
+      "image": "https://imgs.idlumine.net/wp-content/uploads/2021/04/ReZero-Season-1-Dubbed.jpg",
+      "episodes": [
+        {
+          "number": 1,
+          "name": "Episódio 1",
+          "url": "https://ucarecdn.com/eea57af5-1e2b-43a5-967a-6b6e5cbaca8e/",
+          "duration": null
+        },
+        {
+          "number": 2,
+          "name": "Episódio 2",
+          "url": "https://files.catbox.moe/4w5zl1.mp4",
+          "duration": null
+        },
+        {
+          "number": 3,
+          "name": "Episódio 3",
+          "url": "https://files.catbox.moe/n0wrcs.mp4",
+          "duration": null
+        },
+        {
+          "number": 4,
+          "name": "Episódio 4",
+          "url": "https://files.catbox.moe/tzzx30.mp4",
+          "duration": null
+        },
+        {
+          "number": 5,
+          "name": "Episódio 5",
+          "url": "https://ucarecdn.com/e4c52252-2b5d-4bda-9655-1375fa35bd5d/",
+          "duration": null
+        },
+        {
+          "number": 6,
+          "name": "Episódio 6",
+          "url": "https://files.catbox.moe/3wurzl.mp4",
+          "duration": null
+        },
+        {
+          "number": 7,
+          "name": "Episódio 7",
+          "url": "https://ucarecdn.com/4371fdeb-949c-4589-95a0-8163f26b6708/",
+          "duration": null
+        },
+        {
+          "number": 8,
+          "name": "Episódio 8",
+          "url": "https://ucarecdn.com/96e25128-da82-4b22-876a-fd71364bfc03/",
+          "duration": null
+        },
+        {
+          "number": 9,
+          "name": "Episódio 9",
+          "url": "https://files.catbox.moe/q0i5hu.mp4",
+          "duration": null
+        },
+        {
+          "number": 10,
+          "name": "Episódio 10",
+          "url": "https://files.catbox.moe/qbgjdq.mp4",
+          "duration": null
+        },
+        {
+          "number": 11,
+          "name": "Episódio 11",
+          "url": "https://files.catbox.moe/yc70ha.mp4",
+          "duration": null
+        },
+        {
+          "number": 12,
+          "name": "Episódio 12",
+          "url": "https://files.catbox.moe/nfncgw.mp4",
+          "duration": null
+        },
+        {
+          "number": 13,
+          "name": "Episódio 13",
+          "url": "https://files.catbox.moe/75f6og.mp4",
+          "duration": null
+        },
+        {
+          "number": 14,
+          "name": "Episódio 14",
+          "url": "https://files.catbox.moe/bwshgr.mp4",
+          "duration": null
+        },
+        {
+          "number": 15,
+          "name": "Episódio 15",
+          "url": "https://files.catbox.moe/sbq4ky.mp4",
+          "duration": null
+        },
+        {
+          "number": 16,
+          "name": "Episódio 16",
+          "url": "https://files.catbox.moe/heq0p5.mp4",
+          "duration": null
+        },
+        {
+          "number": 17,
+          "name": "Episódio 17",
+          "url": "https://files.catbox.moe/eol71t.mp4",
+          "duration": null
+        },
+        {
+          "number": 18,
+          "name": "Episódio 18",
+          "url": "https://files.catbox.moe/3mrb3g.mp4",
+          "duration": null
+        },
+        {
+          "number": 19,
+          "name": "Episódio 19",
+          "url": "https://files.catbox.moe/1ydi0h.mp4",
+          "duration": null
+        },
+        {
+          "number": 20,
+          "name": "Episódio 20",
+          "url": "https://files.catbox.moe/yasmzw.mp4",
+          "duration": null
+        },
+        {
+          "number": 21,
+          "name": "Episódio 21",
+          "url": "https://files.catbox.moe/tii1w2.mp4",
+          "duration": null
+        },
+        {
+          "number": 22,
+          "name": "Episódio 22",
+          "url": "https://files.catbox.moe/5ltsp1.mp4",
+          "duration": null
+        },
+        {
+          "number": 23,
+          "name": "Episódio 23",
+          "url": "https://files.catbox.moe/j39s7p.mp4",
+          "duration": null
+        },
+        {
+          "number": 24,
+          "name": "Episódio 24",
+          "url": "https://files.catbox.moe/puari4.mp4",
+          "duration": null
+        },
+        {
+          "number": 25,
+          "name": "Episódio 25",
+          "url": "https://ucarecdn.com/ce37f251-5578-4561-a381-6d6da5ed7d7e/",
+          "duration": null
+        }
+      ]
     },
     {
-        "id": "dark-elf",
-        "title": "Dark Elf ga Isekai kara Oikaketekita",
-        "alternative_titles": ["Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita"],
-        "year": 2025,
-        "season": "Inverno de 2025",
-        "type": "TV",
-        "episodes_count": 12,
-        "audio": "Legendado",
-        "genres": ["Comédia", "Fantasia", "Romance"],
-        "themes": ["Isekai", "Elfos Negros", "Afeto Obsessivo"],
-        "studio": "Elias",
-        "description": "Após uma aventura em outro mundo, um jovem retorna à sua vida normal apenas para descobrir que uma elfa negra profundamente apaixonada e possessiva decidiu segui-lo de volta até o mundo real.",
-        "image": "https://m.media-amazon.com/images/I/71R1YfV9WTL._AC_UF1000,1000_QL80_.jpg",
-        "episodes": [
-            {"number": 1, "name": "Episódio 1: A garota que encontrei no outro mundo", "url": "https://files.catbox.moe/5vxi5o.mp4", "duration": "24min"},
-            {"number": 2, "name": "Episódio 2: Ir para a escola", "url": "https://files.catbox.moe/r4q6jw.mp4", "duration": "24min"},
-            {"number": 3, "name": "Episódio 3: Fazendo compras", "url": "https://files.catbox.moe/9l2khp.mp4", "duration": "24min"},
-            {"number": 4, "name": "Episódio 4: Um visitante do outro mundo", "url": "https://files.catbox.moe/vtx7ch.mp4", "duration": "24min"},
-            {"number": 5, "name": "Episódio 5: A vizinha", "url": "https://files.catbox.moe/uo1vfb.mp4", "duration": "24min"},
-            {"number": 6, "name": "Episódio 6: Criando um filho", "url": "https://files.catbox.moe/3r8lt7.mp4", "duration": "24min"},
-            {"number": 7, "name": "Episódio 7: Amor e Doença", "url": "https://files.catbox.moe/ee3qne.mp4", "duration": "24min"},
-            {"number": 8, "name": "Episódio 8", "url": "https://files.catbox.moe/z5lycq.mp4", "duration": "24min"},
-            {"number": 9, "name": "Episódio 9", "url": "https://files.catbox.moe/gb52vy.mp4", "duration": "24min"},
-            {"number": 10, "name": "Episódio 10", "url": "https://files.catbox.moe/if3i53.mp4", "duration": "24min"},
-            {"number": 11, "name": "Episódio 11", "url": "https://files.catbox.moe/k86u6l.mp4", "duration": "24min"},
-            {"number": 12, "name": "Episódio 12", "url": "https://files.catbox.moe/3zq217.mp4", "duration": "24min"}
-        ]
+      "id": "dark-elf",
+      "title": "Dark Elf ga Isekai kara Oikaketekita",
+      "alternative_titles": [
+        "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita"
+      ],
+      "year": 2025,
+      "season": "Inverno de 2025",
+      "type": "TV",
+      "episodes_count": 12,
+      "audio": "Legendado",
+      "genres": [
+        "Comédia",
+        "Fantasia",
+        "Romance"
+      ],
+      "themes": [
+        "Isekai",
+        "Elfos Negros",
+        "Afeto Obsessivo"
+      ],
+      "studio": "Elias",
+      "description": "Após uma aventura em outro mundo, um jovem retorna à sua vida normal apenas para descobrir que uma elfa negra profundamente apaixonada e possessiva decidiu segui-lo de volta até o mundo real.",
+      "image": "https://m.media-amazon.com/images/I/71R1YfV9WTL._AC_UF1000,1000_QL80_.jpg",
+      "episodes": [
+        {
+          "number": 1,
+          "name": "Episódio 1: A garota que encontrei no outro mundo",
+          "url": "https://files.catbox.moe/5vxi5o.mp4",
+          "duration": "24min"
+        },
+        {
+          "number": 2,
+          "name": "Episódio 2: Ir para a escola",
+          "url": "https://files.catbox.moe/r4q6jw.mp4",
+          "duration": "24min"
+        },
+        {
+          "number": 3,
+          "name": "Episódio 3: Fazendo compras",
+          "url": "https://files.catbox.moe/9l2khp.mp4",
+          "duration": "24min"
+        },
+        {
+          "number": 4,
+          "name": "Episódio 4: Um visitante do outro mundo",
+          "url": "https://files.catbox.moe/vtx7ch.mp4",
+          "duration": "24min"
+        },
+        {
+          "number": 5,
+          "name": "Episódio 5: A vizinha",
+          "url": "https://files.catbox.moe/uo1vfb.mp4",
+          "duration": "24min"
+        },
+        {
+          "number": 6,
+          "name": "Episódio 6: Criando um filho",
+          "url": "https://files.catbox.moe/3r8lt7.mp4",
+          "duration": "24min"
+        },
+        {
+          "number": 7,
+          "name": "Episódio 7: Amor e Doença",
+          "url": "https://files.catbox.moe/ee3qne.mp4",
+          "duration": "24min"
+        },
+        {
+          "number": 8,
+          "name": "Episódio 8",
+          "url": "https://files.catbox.moe/z5lycq.mp4",
+          "duration": "24min"
+        },
+        {
+          "number": 9,
+          "name": "Episódio 9",
+          "url": "https://files.catbox.moe/gb52vy.mp4",
+          "duration": "24min"
+        },
+        {
+          "number": 10,
+          "name": "Episódio 10",
+          "url": "https://files.catbox.moe/if3i53.mp4",
+          "duration": "24min"
+        },
+        {
+          "number": 11,
+          "name": "Episódio 11",
+          "url": "https://files.catbox.moe/k86u6l.mp4",
+          "duration": "24min"
+        },
+        {
+          "number": 12,
+          "name": "Episódio 12",
+          "url": "https://files.catbox.moe/3zq217.mp4",
+          "duration": "24min"
+        }
+      ]
     }
-]
-
-payload = {
-    "total_animes": len(animes),
-    "animes": animes
+  ]
 }
-
-with open("animes_catalog.json", "w", encoding="utf-8") as f:
-    json.dump(payload, f, ensure_ascii=False, indent=2)
-
-print("Salvo com sucesso! Total de animes:", len(animes))
